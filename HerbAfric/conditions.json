@@ -1,0 +1,1852 @@
+{
+    "document": {
+      "title": "Diseases; symptoms and signs; Nigerian herbs and their native names; and preparation methods",
+      "systems": [
+        {
+          "name": "Nervous System",
+          "diseases": [
+            {
+              "name": "Alzheimer's Disease",
+              "symptoms_and_signs": "Memory loss, confusion, difficulty problem solving, disorientation, mood changes",
+              "herbs": [
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Dried leaves powdered, 1-2 teaspoons in water daily; or boiled as tea",
+                  "image": "https://images.unsplash.com/photo-1597362925123-77861d3fbac7"
+                },
+                {
+                  "name": "Ginkgo biloba (adopted in Nigeria)",
+                  "native_names": {
+                    "market_name": "Ginkgo"
+                  },
+                  "preparation": "Dried leaves boiled into tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Ocimum gratissimum (Scent leaf)",
+                  "native_names": {
+                    "Igbo": "Nchuanwu",
+                    "Yoruba": "Efinrin"
+                  },
+                  "preparation": "Boil fresh leaves in water for 10-15 minutes; drink as tea, 1 cup daily."
+                },
+                {
+                  "name": "African Pepper (Piper guineense)",
+                  "native_names": {
+                    "Igbo": "Uziza",
+                    "Yoruba": "Iyere"
+                  },
+                  "preparation": "The seeds are usually ground into a powder and mixed with water or taken with food."
+                },
+                {
+                  "name": "Vernonia amygdalina (Bitter Leaf)",
+                  "native_names": {
+                    "Igbo": "Olugbu",
+                    "Yoruba": "Ewuro"
+                  },
+                  "preparation": "The leaves are typically boiled or infused in hot water to make a tea."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "Rhizome powdered, 1 teaspoon mixed with ¼ teaspoon of pepper in warm milk taken 2 times daily. Curcumin crosses the Brain Blood Barrier (BBB) and reduces amyloid plaques."
+                },
+                {
+                  "name": "Cocos nucifera (Coconut)",
+                  "native_names": {
+                    "Igbo": "Aku oyibo",
+                    "Yoruba": "Agbon",
+                    "Hausa": "Kwakwa"
+                  },
+                  "preparation": "Take coconut oil, 1-2 tablespoons daily to improve memory in mild cases."
+                }
+              ]
+            },
+            {
+              "name": "Parkinson's Disease",
+              "symptoms_and_signs": "Tremors, slow movement, stiffness, balance issues, bradykinesia, postural instability, difficulty with movement, speech changes.",
+              "herbs": [
+                {
+                  "name": "Mucuna pruriens (Velvet beans)",
+                  "native_names": {
+                    "Yoruba": "Agbala",
+                    "Hausa": "Kwaroro"
+                  },
+                  "preparation": "Roast seeds, grind into powder, mix 1-2 teaspoons with water daily or 30g of cooked beans (boiled for 30 minutes to remove toxins) eaten daily."
+                },
+                {
+                  "name": "Ocimum gratissimum (scent leaf)",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Fresh leaves boiled into tea, 1 cup daily."
+                },
+                {
+                  "name": "Hypoxis hemerocallidea (African potato)",
+                  "native_names": {
+                    "Igbo": "Isi Ewu",
+                    "Yoruba": "Esuru"
+                  },
+                  "preparation": "The tubers are boiled or roasted and eaten."
+                },
+                {
+                  "name": "Indigofera tinctoria (Wild Indigo)",
+                  "native_names": {
+                    "Igbo": "Elu",
+                    "Yoruba": "Elu"
+                  },
+                  "preparation": "The leaves are infused in hot water and taken as tea."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Fresh root boiled into tea, take 1-2 cups daily to reduce medication induced nausea."
+                }
+              ]
+            },
+            {
+              "name": "Multiple Sclerosis",
+              "symptoms_and_signs": "Fatigue, numbness, vision problems, balance problems, muscle weakness, coordination issues.",
+              "herbs": [
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Dry leaves, powder, and add to food or tea, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "Rhizome powdered, 1 teaspoon in warm water or food daily."
+                },
+                {
+                  "name": "Prunus Africana (African Cherry)",
+                  "native_names": {
+                    "Igbo": "Udala",
+                    "Yoruba": "Agbalumo"
+                  },
+                  "preparation": "The bark is usually dried and ground into a powder, then mixed with water and taken orally."
+                },
+                {
+                  "name": "Garcinia kola (Bitter Kola)",
+                  "native_names": {
+                    "Igbo": "Aku ilu",
+                    "Yoruba": "Orogbo",
+                    "Hausa": "Namijin Goro"
+                  },
+                  "preparation": "The seeds are typically chewed or ground into a powder and mixed with water."
+                },
+                {
+                  "name": "Linum usitatissimum (Flaxseed)",
+                  "native_names": {
+                    "Igbo": "Okpo okpo",
+                    "Yoruba": "Ewe rinrin",
+                    "Hausa": "Alsa"
+                  },
+                  "preparation": "Grind 2 tablespoons, add in a cup of pap. The omega 3 reduces MS relapse rate."
+                },
+                {
+                  "name": "Vernonia amygdalina (bitter leaf)",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu",
+                    "Hausa": "Shuwaka"
+                  },
+                  "preparation": "Leaf juice, 1-2 tablespoons daily; or boiled as soup for immune modulatory effects."
+                }
+              ]
+            },
+            {
+              "name": "Epilepsy",
+              "symptoms_and_signs": "Seizures, loss of consciousness, temporary confusion, muscle spasms.",
+              "herbs": [
+                {
+                  "name": "Tetrapleura tetraptera (Aidan fruit)",
+                  "native_names": {
+                    "Yoruba": "Oshosho",
+                    "Igbo": "Uhiokirihuo"
+                  },
+                  "preparation": "Fruit boiled into tea, 1 cup daily."
+                },
+                {
+                  "name": "Ocimum gratissimum",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Leaves boiled or chewed raw, 1-2 times daily."
+                },
+                {
+                  "name": "Rauvolfia vomitoria (African snakeroot, Swizzle stick)",
+                  "native_names": {
+                    "Igbo": "Akanta",
+                    "Yoruba": "Asofeyeje",
+                    "Hausa": "Wada",
+                    "Efik": "Mmoneba",
+                    "Ibibio": "Utoenyin"
+                  },
+                  "preparation": "Dry root bark, steep in warm water for 20 minutes; 1 cup daily (supervised)."
+                },
+                {
+                  "name": "Solenostemon monostachyus (Monkey potato)",
+                  "native_names": {
+                    "Yoruba": "Eriile/Olojogbodu",
+                    "Ibibio": "Ntorikwot"
+                  },
+                  "preparation": "The leaves are boiled, and the decoction is taken orally."
+                },
+                {
+                  "name": "Indigofera tinctoria (Wild Indigo)",
+                  "native_names": {
+                    "Yoruba": "Elu",
+                    "Igbo": "Uli/Uri",
+                    "Hausa": "Talaki",
+                    "Tiv": "Saura"
+                  },
+                  "preparation": "The leaves are boiled, and the decoction is taken orally as tea."
+                }
+              ]
+            },
+            {
+              "name": "Stroke (Post Stroke Recovery)",
+              "symptoms_and_signs": "Sudden numbness, confusion, trouble speaking, loss of balance, vision loss.",
+              "herbs": [
+                {
+                  "name": "Vernonia amygdalina (bitter leaf)",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu",
+                    "Hausa": "Shuwaka"
+                  },
+                  "preparation": "Leaf juice, 1-2 tablespoons daily; or boiled as soup."
+                },
+                {
+                  "name": "Garcinia kola (bitter kola)",
+                  "native_names": {
+                    "Yoruba": "Orogbo",
+                    "Igbo": "Akuilu",
+                    "Hausa": "Namijin goro"
+                  },
+                  "preparation": "Seeds chewed raw or powdered, 1 teaspoon daily."
+                },
+                {
+                  "name": "Allium sativum (Garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe"
+                  },
+                  "preparation": "Crush cloves, boil in water for 10 minutes; drink daily."
+                },
+                {
+                  "name": "Gongronema latifolium (Amaranth globe, Bush buck)",
+                  "native_names": {
+                    "Igbo": "Utazi",
+                    "Yoruba": "Arokeke",
+                    "Efik/Ibibio": "Utasi"
+                  },
+                  "preparation": "Leaves are chewed raw or boiled and consumed as tea."
+                },
+                {
+                  "name": "Hypoxis hemerocallidea (African potato)",
+                  "native_names": {
+                    "Igbo": "Isi Ewu",
+                    "Yoruba": "Esuru"
+                  },
+                  "preparation": "The tubers are boiled or roasted and eaten."
+                },
+                {
+                  "name": "Solanum macrocarpon (African eggplant)",
+                  "native_names": {
+                    "Igbo": "Anyara",
+                    "Yoruba": "Igba"
+                  },
+                  "preparation": "The fruits are roasted and eaten for the nasunin (neuroprotective) content."
+                }
+              ]
+            },
+            {
+              "name": "Migraine",
+              "symptoms_and_signs": "Throbbing headache, nausea, sensitivity to light/sound.",
+              "herbs": [
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Fresh root boiled into tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Ocimum gratissimum (African basil)",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Leaves boiled with honey, 1 cup daily."
+                },
+                {
+                  "name": "Mentha piperita (Peppermint)",
+                  "native_names": {
+                    "Hausa": "Nana",
+                    "Yoruba": "Ewe minti"
+                  },
+                  "preparation": "Use as tea before bedtime. Rub on the temple for the vasoconstrictor effect."
+                },
+                {
+                  "name": "Tenacetum parthenium (Feverfew)",
+                  "native_names": {
+                    "Hausa": "Zazzabi",
+                    "Yoruba": "Ewe abere/Abere oloko",
+                    "Igbo": "Ebe ebe"
+                  },
+                  "preparation": "Use as tea before bedtime. Rub on the temple for the vasoconstrictor effect."
+                }
+              ]
+            },
+            {
+              "name": "Neuropathy",
+              "symptoms_and_signs": "Tingling, numbness, burning pain, muscle weakness especially in the hands and feet.",
+              "herbs": [
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Leaf powder, 1-2 teaspoons in water daily."
+                },
+                {
+                  "name": "Capsicum frutescens (hot pepper)",
+                  "native_names": {
+                    "Yoruba": "Ata wewe",
+                    "Igbo": "Ose",
+                    "Hausa": "Barkono"
+                  },
+                  "preparation": "Dried peppers infused in oil, and applied topically."
+                },
+                {
+                  "name": "Prunus africana (African Cherry)",
+                  "native_names": {
+                    "Yoruba": "Agbalumo",
+                    "Igbo": "Udala"
+                  },
+                  "preparation": "The bark is dried and ground into a powder, then mixed with water and taken orally."
+                },
+                {
+                  "name": "Garcinia kola (bitter kola)",
+                  "native_names": {
+                    "Yoruba": "Orogbo",
+                    "Igbo": "Akuilu",
+                    "Hausa": "Namijin goro"
+                  },
+                  "preparation": "Seeds chewed raw or powdered, 1 teaspoon daily."
+                },
+                {
+                  "name": "Vernonia amygdalina (Bitter leaf)",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu"
+                  },
+                  "preparation": "Take 50ml of the leaf juice mixed with 1 teaspoon of honey daily."
+                }
+              ]
+            },
+            {
+              "name": "Huntington's Disease",
+              "symptoms_and_signs": "Uncontrolled movements, cognitive decline, emotional issues.",
+              "herbs": [
+                {
+                  "name": "Mucuna pruriens (Devil beans)",
+                  "native_names": {
+                    "Igbo": "Agbala",
+                    "Yoruba": "Werepe/Yerepe",
+                    "Hausa": "Kwaroro"
+                  },
+                  "preparation": "Seed powder, 1 teaspoon in water daily."
+                },
+                {
+                  "name": "Ginkgo biloba",
+                  "native_names": {
+                    "market_name": "Ginkgo"
+                  },
+                  "preparation": "Boil dried leaves for 15 minutes; drink as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Indigofera tinctoria (Wild Indigo)",
+                  "native_names": {
+                    "Igbo": "Elu",
+                    "Yoruba": "Elu"
+                  },
+                  "preparation": "The leaves are infused in hot water and taken as tea."
+                },
+                {
+                  "name": "Ocimum gratissimum (African basil)",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Leaves boiled with honey, 1 cup daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "Powdered rhizome, 1 teaspoon in water daily. Curcumin reduces Huntington aggregation."
+                },
+                {
+                  "name": "Juglans regia (Walnut)",
+                  "native_names": {
+                    "Yoruba": "Asale",
+                    "Hausa": "Gyada",
+                    "Igbo": "Ukpa"
+                  },
+                  "preparation": "Eat the cooked nuts for the neuro protective Omega 3."
+                }
+              ]
+            },
+            {
+              "name": "Amyotrophic Lateral Sclerosis (ALS)",
+              "symptoms_and_signs": "Muscle weakness, twitching, difficulty speaking/swallowing, paralysis.",
+              "herbs": [
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Leaf powder mixed with food or taken as tea, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "Powdered rhizome, 1 teaspoon in water daily."
+                },
+                {
+                  "name": "Hypoxis hemerocallidea (African potato)",
+                  "native_names": {
+                    "Igbo": "Isi Ewu",
+                    "Yoruba": "Esuru"
+                  },
+                  "preparation": "The tubers are boiled or roasted and eaten."
+                },
+                {
+                  "name": "Vernonia amygdalina (Bitter leaf)",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu"
+                  },
+                  "preparation": "The leaves are boiled or infused in hot water to make a tea and taken 2-3 times daily."
+                },
+                {
+                  "name": "Cocos nucifera (Coconut)",
+                  "native_names": {
+                    "Igbo": "Aku oyibo",
+                    "Yoruba": "Agbon",
+                    "Hausa": "Kwakwa"
+                  },
+                  "preparation": "Take 2 tablespoons of the oil to restore energy to degenerating neurons."
+                }
+              ]
+            },
+            {
+              "name": "Brain Cancer (e.g., Glioblastoma)",
+              "symptoms_and_signs": "Headaches, seizures, nausea, cognitive decline.",
+              "herbs": [
+                {
+                  "name": "Azadirachta indica (neem)",
+                  "native_names": {
+                    "Hausa": "Dogoyaro",
+                    "Yoruba": "Aforo oyinbo"
+                  },
+                  "preparation": "Boil leaves for 15 minutes; drink as tea 1 cup daily or use as wash; or bark decoction."
+                },
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Leaf powder, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Prunus Africana (African Cherry)",
+                  "native_names": {
+                    "Igbo": "Udala",
+                    "Yoruba": "Agbalumo"
+                  },
+                  "preparation": "The bark is usually dried and ground into a powder, then mixed with water and taken orally."
+                },
+                {
+                  "name": "Garcinia kola (Bitter Kola)",
+                  "native_names": {
+                    "Igbo": "Aku ilu",
+                    "Yoruba": "Orogbo",
+                    "Hausa": "Namijin Goro"
+                  },
+                  "preparation": "The seeds are typically chewed or ground into a powder and mixed with water."
+                },
+                {
+                  "name": "Annona muricata (Sour sop)",
+                  "native_names": {
+                    "Hausa": "Fasadarur/Tuwon biri",
+                    "Igbo": "Sawansop",
+                    "Yoruba": "Ebo/Apekan"
+                  },
+                  "preparation": "Boil five leaves and take as tea 2 times daily."
+                },
+                {
+                  "name": "Boswellia sarrata (Frankincense, Olibanum)",
+                  "native_names": {
+                    "Hausa": "Hano/Harrabi"
+                  },
+                  "preparation": "The resin extract is taken as tea."
+                }
+              ]
+            }
+          ],
+          "protocol_summary": {
+            "blood_brain_barrier_penetration": "Turmeric + black pepper enhances bioavailability",
+            "dosing_precision": {
+              "mucuna_for_parkinsons": "Exact LDOPA calculation needed",
+              "ginkgo": "Standardized 24% flavone glycosides"
+            },
+            "drug_interactions": {
+              "scent_leaf": "May potentiate benzodiazepines",
+              "soursop": "Interferes with chemotherapy"
+            },
+            "avoid": "Aluminum cookware (potential risk factor) in Alzheimer's disease",
+            "migraine_trigger_management": "Avoid tyramine-rich foods (aged cheese, fermented products)"
+          }
+        },
+        {
+          "name": "Circulatory System (Cardiovascular)",
+          "diseases": [
+            {
+              "name": "Hypertension",
+              "symptoms_and_signs": "Headaches, dizziness, chest pain, blurred vision, nosebleeds (severe cases).",
+              "herbs": [
+                {
+                  "name": "Hibiscus sabdariffa (zobo)",
+                  "native_names": {
+                    "Hausa": "Zobo",
+                    "Yoruba": "Isapa"
+                  },
+                  "preparation": "Dried calyces boiled into tea, 1-2 cups daily. The anthocyanins content act as ACE inhibitors."
+                },
+                {
+                  "name": "Allium sativum (garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe",
+                    "Igbo": "Ayuu"
+                  },
+                  "preparation": "Take 1-2 raw cloves daily or in soups. The allicin content reduces systolic blood pressure."
+                },
+                {
+                  "name": "Rauvolfia vomitoria (African snakeroot, Swizzle stick)",
+                  "native_names": {
+                    "Igbo": "Akanta",
+                    "Yoruba": "Asofeyeje",
+                    "Hausa": "Wada",
+                    "Efik": "Mmoneba",
+                    "Ibibio": "Utoenyin"
+                  },
+                  "preparation": "Dry root bark, steep in warm water for 20 minutes; 1 cup daily."
+                },
+                {
+                  "name": "Hypoxis hemerocallidea (African potato)",
+                  "native_names": {
+                    "Igbo": "Isi Ewu",
+                    "Yoruba": "Esuru"
+                  },
+                  "preparation": "The tubers are boiled or roasted and eaten."
+                },
+                {
+                  "name": "Vernonia amygdalina",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu",
+                    "Hausa": "Shuwaka"
+                  },
+                  "preparation": "Leaf juice, 1-2 tablespoons daily."
+                }
+              ]
+            },
+            {
+              "name": "Atherosclerosis",
+              "symptoms_and_signs": "Chest pain, fatigue, shortness of breath, leg cramps.",
+              "herbs": [
+                {
+                  "name": "Allium sativum (garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe",
+                    "Igbo": "Ayuu"
+                  },
+                  "preparation": "Crush cloves, boil in water for 10 minutes; drink 1-2 cups daily."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea from fresh root, 1-2 cups daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Linum usitatissimum (Flaxseed)",
+                  "native_names": {
+                    "Igbo": "Okpo okpo",
+                    "Yoruba": "Ewe rinrin",
+                    "Hausa": "Alsa"
+                  },
+                  "preparation": "Grind 2 tablespoons, add in a cup of pap. The omega 3 reduces LDL oxidation."
+                }
+              ]
+            },
+            {
+              "name": "Coronary Artery Disease",
+              "symptoms_and_signs": "Chest pain (angina), shortness of breath, fatigue.",
+              "herbs": [
+                {
+                  "name": "Hibiscus sabdariffa",
+                  "native_names": {
+                    "Hausa": "Zobo",
+                    "Yoruba": "Isapa"
+                  },
+                  "preparation": "Boil dried calyces for 15-20 minutes; drink as tea 1-2 cups daily."
+                },
+                {
+                  "name": "Garcinia kola",
+                  "native_names": {
+                    "Yoruba": "Orogbo",
+                    "Igbo": "Akuilu",
+                    "Hausa": "Namijin goro"
+                  },
+                  "preparation": "Seeds chewed raw or powdered, 1 teaspoon daily."
+                },
+                {
+                  "name": "Prunus Africana (African Cherry)",
+                  "native_names": {
+                    "Igbo": "Udala",
+                    "Yoruba": "Agbalumo"
+                  },
+                  "preparation": "The bark is dried and ground into a powder, then taken as tea after steeping in hot water."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea from fresh root, 1-2 cups daily. The antiplatelet property of gingerol improves circulation."
+                }
+              ]
+            },
+            {
+              "name": "Heart Failure",
+              "symptoms_and_signs": "Shortness of breath, swelling, fatigue.",
+              "herbs": [
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Leaf powder, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Crataegus spp. (hawthorn, adopted)",
+                  "native_names": {
+                    "market_name": "Hawthorn"
+                  },
+                  "preparation": "Berries boiled into tea, 1 cup daily."
+                },
+                {
+                  "name": "Adansonia digitata (Baobab)",
+                  "native_names": {
+                    "Hausa": "Kuka",
+                    "Yoruba": "Ose"
+                  },
+                  "preparation": "Boil leaves for 15 minutes; drink as tea, 1 cup daily."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea from fresh root, 1-2 cups daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Vernonia amygdalina (Bitter leaf)",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu"
+                  },
+                  "preparation": "The leaf juice is taken 50ml daily or the fresh leaves are chewed for their diuretic properties."
+                },
+                {
+                  "name": "Telfairia occidentalis (Fluted pumpkin)",
+                  "native_names": {
+                    "Yoruba": "Eweroko",
+                    "Igbo": "Ugu",
+                    "Efik/Ibibio": "Ikong-ubong"
+                  },
+                  "preparation": "Leaf is juices and taken 2 times daily for the rich potassium content."
+                }
+              ]
+            },
+            {
+              "name": "Myocardial Infarction (Heart Attack)",
+              "symptoms_and_signs": "Chest pain, sweating, nausea, shortness of breath.",
+              "herbs": [
+                {
+                  "name": "Capiscum annum (Cayenne pepper): **Emergency Care**",
+                  "native_names": {
+                    "Hausa": "Tattasai",
+                    "Yoruba": "Shombo",
+                    "Igbo": "Ose talugwu"
+                  },
+                  "preparation": "1 teaspoon in warm water and taken to improve circulation."
+                },
+                {
+                  "name": "Allium sativum (garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe",
+                    "Igbo": "Ayuu"
+                  },
+                  "preparation": "1-2 raw cloves daily."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Hibiscus sabdariffa (Zobo)",
+                  "native_names": {
+                    "Hausa/Yoruba": "Zobo"
+                  },
+                  "preparation": "Boil calyces for 15 minutes; drink cooled, 1-2 cups daily."
+                },
+                {
+                  "name": "Garcinia kola",
+                  "native_names": {
+                    "Yoruba": "Orogbo",
+                    "Igbo": "Akuilu",
+                    "Hausa": "Namijin goro"
+                  },
+                  "preparation": "Seeds chewed raw or powdered, 1 teaspoon daily."
+                },
+                {
+                  "name": "Prunus Africana (African Cherry)",
+                  "native_names": {
+                    "Igbo": "Udala",
+                    "Yoruba": "Agbalumo"
+                  },
+                  "preparation": "The bark is dried and ground into a powder, then taken as tea after steeping in hot water."
+                }
+              ]
+            },
+            {
+              "name": "Stroke (Repeated from Nervous System)",
+              "symptoms_and_signs": "Sudden numbness, confusion, trouble speaking.",
+              "herbs": [
+                {
+                  "name": "Vernonia amygdalina",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu",
+                    "Hausa": "Shuwaka"
+                  },
+                  "preparation": "Leaf juice, 1-2 tablespoons daily."
+                },
+                {
+                  "name": "Garcinia kola",
+                  "native_names": {
+                    "Yoruba": "Orogbo",
+                    "Igbo": "Akuilu",
+                    "Hausa": "Namijin goro"
+                  },
+                  "preparation": "Seeds chewed or powdered, 1 teaspoon daily."
+                },
+                {
+                  "name": "Allium sativum (Garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe",
+                    "Igbo": "Ayuu"
+                  },
+                  "preparation": "Crush cloves, boil in water for 10 minutes; drink 1-2 cups daily."
+                },
+                {
+                  "name": "Solanum macrocarpon (African eggplant)",
+                  "native_names": {
+                    "Igbo": "Anyara",
+                    "Yoruba": "Igba"
+                  },
+                  "preparation": "The fruits are roasted and eaten for the nasunin (neuroprotective) content."
+                }
+              ]
+            },
+            {
+              "name": "Peripheral Artery Disease",
+              "symptoms_and_signs": "Leg pain, cramping, cold extremities.",
+              "herbs": [
+                {
+                  "name": "Ginkgo biloba",
+                  "native_names": {
+                    "market_name": "Ginkgo"
+                  },
+                  "preparation": "Leaf tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Capsicum frutescens (Pepper)",
+                  "native_names": {
+                    "Yoruba": "Ata wewe",
+                    "Igbo": "Ose",
+                    "Hausa": "Barkono"
+                  },
+                  "preparation": "Pepper infused oil, applied topically."
+                },
+                {
+                  "name": "Zingiber officinale (Ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale"
+                  },
+                  "preparation": "Boil grated root for 10 minutes; drink 1-2 cups daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Cinnamomum verum (Cinnamon)",
+                  "native_names": {
+                    "Yoruba": "Oloorun/Oloo (variant)",
+                    "Hausa": "Kirfa",
+                    "Igbo": "Ime guru/Ohio"
+                  },
+                  "preparation": "The powdered bark is taken as tea, 1 teaspoon daily."
+                }
+              ]
+            },
+            {
+              "name": "Deep Vein Thrombosis",
+              "symptoms_and_signs": "Swelling, warmth, pain, redness in legs.",
+              "herbs": [
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Allium sativum (garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe",
+                    "Igbo": "Ayuu"
+                  },
+                  "preparation": "1-2 cloves daily."
+                },
+                {
+                  "name": "Garcinia kola (Bitter kola)",
+                  "native_names": {
+                    "Yoruba": "Orogbo",
+                    "Hausa": "Namijin goro"
+                  },
+                  "preparation": "Soak crushed seeds in water overnight; drink infusion."
+                },
+                {
+                  "name": "Prunus Africana (African Cherry)",
+                  "native_names": {
+                    "Igbo": "Udala",
+                    "Yoruba": "Agbalumo"
+                  },
+                  "preparation": "The bark is dried and ground into a powder, then taken as tea after steeping in hot water."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Ananas comosus (Pineapple)",
+                  "native_names": {
+                    "Igbo": "Nkwuaba",
+                    "Yoruba": "Opeyinbo"
+                  },
+                  "preparation": "The fresh juice is taken for its bromelain content that breaks down fibrin."
+                }
+              ]
+            },
+            {
+              "name": "Pulmonary Embolism",
+              "symptoms_and_signs": "Shortness of breath, chest pain, rapid heart rate.",
+              "herbs": [
+                {
+                  "name": "Hibiscus sabdariffa",
+                  "native_names": {
+                    "Hausa": "Zobo",
+                    "Yoruba": "Isapa"
+                  },
+                  "preparation": "Tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Ocimum gratissimum",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Boil leaves for 10 minutes and take as tea, 1-2 cup daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Allium sativum (Garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe"
+                  },
+                  "preparation": "Consume 1-2 raw cloves daily for the antiplatelet activities of the constituents."
+                }
+              ]
+            },
+            {
+              "name": "Cardiomyopathy",
+              "symptoms_and_signs": "Fatigue, swelling, irregular heartbeat.",
+              "herbs": [
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Leaf powder, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Garcinia kola",
+                  "native_names": {
+                    "Yoruba": "Orogbo",
+                    "Igbo": "Akuilu",
+                    "Hausa": "Namijin goro"
+                  },
+                  "preparation": "Seeds chewed or powdered, 1 teaspoon daily."
+                },
+                {
+                  "name": "Prunus Africana (African Cherry)",
+                  "native_names": {
+                    "Igbo": "Udala",
+                    "Yoruba": "Agbalumo"
+                  },
+                  "preparation": "The bark is dried and ground into a powder, then taken as tea after steeping in hot water."
+                }
+              ]
+            }
+          ],
+          "critical_cardiovascular_protocol": {
+            "monitor_bp": "Monitor BP regularly if using hypertensive herbs",
+            "drug_herb_interactions": {
+              "garlic_warfarin": "Increased bleeding risk",
+              "hibiscus_diuretics": "Potentiates effects"
+            },
+            "lifestyle": "Daily walking (30 mins), Mediterranean style diet"
+          }
+        },
+        {
+          "name": "Respiratory System",
+          "diseases": [
+            {
+              "name": "Chronic Obstructive Pulmonary Disease (COPD)",
+              "symptoms_and_signs": "Chronic cough, shortness of breath, wheezing.",
+              "herbs": [
+                {
+                  "name": "Adansonia digitata (baobab)",
+                  "native_names": {
+                    "Hausa": "Kuka",
+                    "Yoruba": "Ose",
+                    "Igbo": "Ukwu"
+                  },
+                  "preparation": "Boil the leaves or bark for 15 minutes and takes as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Ocimum gratissimum",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Leaf tea with honey, 1 cup daily."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea from fresh root, 1-2 cups daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Allium sativum (Garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe"
+                  },
+                  "preparation": "Crush cloves, boil in water for 10 minutes; drink daily. Allicin present in garlic has bronchodialatory effects."
+                }
+              ]
+            },
+            {
+              "name": "Asthma",
+              "symptoms_and_signs": "Wheezing, shortness of breath, chest tightness.",
+              "herbs": [
+                {
+                  "name": "Adansonia digitata",
+                  "native_names": {
+                    "Hausa": "Kuka",
+                    "Yoruba": "Ose",
+                    "Igbo": "Ukwu"
+                  },
+                  "preparation": "Leaf or bark tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Ocimum gratissimum",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Boil leaves for 10 minutes; inhale steam or drink tea."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea from fresh root, 1-2 cups daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Eucalyptus globulus (Eucalyptus, Gum tree)",
+                  "native_names": {
+                    "Igbo": "Aromanic"
+                  },
+                  "preparation": "Leaves are boiled and inhaled for relief. Cineole in eucalyptus reduces asthma symptoms."
+                }
+              ]
+            },
+            {
+              "name": "Pneumonia",
+              "symptoms_and_signs": "Fever, cough with phlegm, chest pain.",
+              "herbs": [
+                {
+                  "name": "Azadirachta indica (neem)",
+                  "native_names": {
+                    "Hausa": "Dogoyaro",
+                    "Yoruba": "Aforooyinbo"
+                  },
+                  "preparation": "Boil leave for 15 minutes and take as tea, 1 cup daily."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Boil grated root with honey for 10 minutes; drink warm, 1-2 cups daily."
+                },
+                {
+                  "name": "Garcinia kola",
+                  "native_names": {
+                    "Yoruba": "Orogbo",
+                    "Igbo": "Akuilu",
+                    "Hausa": "Namijin goro"
+                  },
+                  "preparation": "Seeds chewed or powdered, 1 teaspoon daily."
+                },
+                {
+                  "name": "Prunus Africana (African Cherry)",
+                  "native_names": {
+                    "Igbo": "Udala",
+                    "Yoruba": "Agbalumo"
+                  },
+                  "preparation": "The bark is dried and ground into a powder, then taken as tea after steeping in hot water."
+                },
+                {
+                  "name": "Gongronema latifolium (Amaranth globe, Bush buck)",
+                  "native_names": {
+                    "Igbo": "Utazi",
+                    "Yoruba": "Arokeke",
+                    "Efik/Ibibio": "Utasi"
+                  },
+                  "preparation": "Leaves are chewed raw or boiled and consumed as tea."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily. Curcumin reduces lung inflammation."
+                },
+                {
+                  "name": "Vernonia amygdalina (Bitter leaf)",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu"
+                  },
+                  "preparation": "The leaf juice is taken 50ml daily or the fresh leaves are chewed."
+                }
+              ]
+            },
+            {
+              "name": "Lung Cancer",
+              "symptoms_and_signs": "Persistent cough, chest pain, bloody sputum, weight loss.",
+              "herbs": [
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Leaf powder taken in food or as tea, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Azadirachta indica (neem)",
+                  "native_names": {
+                    "Hausa": "Dogoyaro",
+                    "Yoruba": "Aforooyinbo"
+                  },
+                  "preparation": "Boil leaves for 15 minutes; drink as tea, 1 cup daily."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea from fresh root, 1-2 cups daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Annona muricata (Sour sop)",
+                  "native_names": {
+                    "Hausa": "Fasadarur/Tuwon biri",
+                    "Igbo": "Sawansop",
+                    "Yoruba": "Ebo/Apekan"
+                  },
+                  "preparation": "The leaves are boiled and taken as tea 2 times daily."
+                },
+                {
+                  "name": "Telfairia occidentalis (Fluted pumpkin)",
+                  "native_names": {
+                    "Yoruba": "Eweroko",
+                    "Igbo": "Ugu",
+                    "Efik/Ibibio": "Ikong-ubong"
+                  },
+                  "preparation": "Leaf is juices and taken 2 times daily to support the immune system."
+                }
+              ]
+            },
+            {
+              "name": "Cystic Fibrosis",
+              "symptoms_and_signs": "Persistent cough, frequent infections, salty sweat.",
+              "herbs": [
+                {
+                  "name": "Ocimum gratissimum",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Leaf tea, 1 cup daily."
+                },
+                {
+                  "name": "Aloe vera",
+                  "native_names": {
+                    "Yoruba": "Eti erin",
+                    "Hausa": "Kwandar"
+                  },
+                  "preparation": "Gel with honey, 1-2 tablespoons daily."
+                },
+                {
+                  "name": "Moringa oleifera (Moringa)",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo"
+                  },
+                  "preparation": "Dry leaves, powder, add to food, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Ananas comosus (Pineapple)",
+                  "native_names": {
+                    "Igbo": "Nkwuaba",
+                    "Yoruba": "Opeyinbo"
+                  },
+                  "preparation": "The fresh juice is taken for its bromelain content that thins mucus."
+                },
+                {
+                  "name": "Cocos nucifera (Coconut)",
+                  "native_names": {
+                    "Igbo": "Aku oyibo",
+                    "Yoruba": "Agbon",
+                    "Hausa": "Kwakwa"
+                  },
+                  "preparation": "The coconut water is taken for its electrolytes content."
+                }
+              ]
+            },
+            {
+              "name": "Emphysema",
+              "symptoms_and_signs": "Shortness of breath, wheezing, barrel chest, fatigue.",
+              "herbs": [
+                {
+                  "name": "Adansonia digitata",
+                  "native_names": {
+                    "Hausa": "Kuka",
+                    "Yoruba": "Ose",
+                    "Igbo": "Ukwu"
+                  },
+                  "preparation": "Boil leaves for 15 minutes; drink as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Leaf powder, 1-2 teaspoons daily."
+                }
+              ]
+            },
+            {
+              "name": "Bronchitis",
+              "symptoms_and_signs": "Cough with mucus, chest discomfort, fatigue.",
+              "herbs": [
+                {
+                  "name": "Ocimum gratissimum",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Boil leaves for 10 minutes; drink or inhale steam."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Thymus vulgaris (Thyme)",
+                  "native_names": {
+                    "Yoruba": "Ewe timi"
+                  },
+                  "preparation": "Tea, 1 teaspoon of freah leaves in hot water, 2 times daily."
+                },
+                {
+                  "name": "Allium cepa (Onion)",
+                  "native_names": {
+                    "Yoruba": "Alubosa",
+                    "Hausa": "Albasa",
+                    "Igbo": "Yabasi"
+                  },
+                  "preparation": "Crush and mix with honey, strain after 1-2 hours."
+                }
+              ]
+            },
+            {
+              "name": "Pulmonary Fibrosis",
+              "symptoms_and_signs": "Shortness of breath, dry cough, fatigue, progressive breathlessness.",
+              "herbs": [
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Leaf powder taken in food or as tea, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "Powder in water, 1 teaspoon daily."
+                }
+              ]
+            },
+            {
+              "name": "Tuberculosis",
+              "symptoms_and_signs": "Cough with blood, weight loss, fever, night sweats.",
+              "herbs": [
+                {
+                  "name": "Azadirachta indica (neem)",
+                  "native_names": {
+                    "Hausa": "Dogoyaro",
+                    "Yoruba": "Aforooyinbo"
+                  },
+                  "preparation": "Leaf tea, 1 cup daily."
+                },
+                {
+                  "name": "Aloe vera",
+                  "native_names": {
+                    "Yoruba": "Eti erin",
+                    "Hausa": "Kwandar"
+                  },
+                  "preparation": "Mix the gel with honey, and take 1-2 tablespoons daily."
+                },
+                {
+                  "name": "Allium sativum (Garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe"
+                  },
+                  "preparation": "Crush cloves, boil in water for 10 minutes; drink daily."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea, 1-2 cups daily."
+                }
+              ]
+            },
+            {
+              "name": "Sleep Apnea",
+              "symptoms_and_signs": "Loud snoring, gasping, daytime fatigue.",
+              "herbs": [
+                {
+                  "name": "Ocimum gratissimum",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Leaf tea, 1 cup nightly."
+                },
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Leaf powder, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Zingiber officinale (Ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale"
+                  },
+                  "preparation": "Boil grated root for 10 minutes; drink before bed."
+                },
+                {
+                  "name": "Mentha piperita (Peppermint)",
+                  "native_names": {
+                    "Hausa": "Nana",
+                    "Yoruba": "Ewe minti"
+                  },
+                  "preparation": "Use as tea before bedtime. It relaxes the throat muscles and reduces airway spasms."
+                }
+              ]
+            }
+          ],
+          "general_respiratory_support": {
+            "steam_therapy": "Add *eucalyptus* or *ginger* to hot water, inhale.",
+            "avoid": "Polluted air, smoking, cold drinks."
+          },
+          "scientific_note": "Many herbs (e.g., ginger, turmeric) have evidence based benefits for inflammation. Critical conditions (TB, lung cancer) require medical treatment first."
+        },
+        {
+          "name": "Digestive System",
+          "diseases": [
+            {
+              "name": "Gastro-esophageal Reflux Disease (GERD)",
+              "symptoms_and_signs": "Heartburn, regurgitation, chest pain.",
+              "herbs": [
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea, 1-2 cups daily. Gingerol accelerates gastric emptying."
+                },
+                {
+                  "name": "Carica papaya (pawpaw)",
+                  "native_names": {
+                    "Yoruba": "Ibepe",
+                    "Hausa": "Gwanda",
+                    "Igbo": "Okoro"
+                  },
+                  "preparation": "Unripe fruit tea, 1 cup daily."
+                },
+                {
+                  "name": "Aloe vera",
+                  "native_names": {
+                    "Yoruba": "Eti erin",
+                    "Hausa": "Kwandar"
+                  },
+                  "preparation": "Extract gel, mix with water, take 1-2 tablespoons daily."
+                },
+                {
+                  "name": "Ocimum gratissimum (African basil)",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Leaves boiled with honey, 1 cup daily."
+                },
+                {
+                  "name": "Ulmus rubra (Slippery elm)",
+                  "native_names": {
+                    "Hausa": "Albasar tamoji",
+                    "Yoruba": "Ewe Ilapa",
+                    "Igbo": "Oka n'olu"
+                  },
+                  "preparation": "Mix bark powder with water to form a mucilaginous drink that coats the esophagus."
+                }
+              ]
+            },
+            {
+              "name": "Peptic Ulcer Disease",
+              "symptoms_and_signs": "Burning stomach pain, nausea, bloating.",
+              "herbs": [
+                {
+                  "name": "Aloe vera",
+                  "native_names": {
+                    "Yoruba": "Eti erin",
+                    "Hausa": "Kwandar"
+                  },
+                  "preparation": "Mix gel with honey, 1-2 tablespoons daily."
+                },
+                {
+                  "name": "Ocimum gratissimum",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Leaf tea, 1 cup daily."
+                },
+                {
+                  "name": "Carica papaya (Pawpaw)",
+                  "native_names": {
+                    "Yoruba": "Ibepe",
+                    "Hausa": "Gwanda"
+                  },
+                  "preparation": "Boil leaves for 20 minutes; drink as tea."
+                },
+                {
+                  "name": "Vernonia amygdalina (Bitter leaf)",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu"
+                  },
+                  "preparation": "The leaf juice is taken, 1 tablespoon 2-3 times daily."
+                },
+                {
+                  "name": "Prunus Africana (African Cherry)",
+                  "native_names": {
+                    "Igbo": "Udala",
+                    "Yoruba": "Agbalumo"
+                  },
+                  "preparation": "The bark is usually dried and ground into a powder, then mixed with water and taken orally."
+                },
+                {
+                  "name": "Garcinia kola (Bitter Kola)",
+                  "native_names": {
+                    "Igbo": "Aku ilu",
+                    "Yoruba": "Orogbo",
+                    "Hausa": "Namijin Goro"
+                  },
+                  "preparation": "The seeds are typically chewed or ground into a powder and mixed with water."
+                },
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Dry leaves, powder, 1 teaspoons put under the tongue or taken with water, 2-3 times daily."
+                },
+                {
+                  "name": "Musa paradisiaca (Plantain)",
+                  "native_names": {
+                    "Igbo": "Ogade/Jioko",
+                    "Yoruba": "Ewe ogede",
+                    "Hausa": "Ayabar turawa"
+                  },
+                  "preparation": "Sun-dry unripe plantain, make into a powder, take 2 teaspoons in water 2 times daily."
+                }
+              ]
+            },
+            {
+              "name": "Inflammatory Bowel Disease (IBD)",
+              "symptoms_and_signs": "Diarrhea, abdominal pain, weight loss.",
+              "herbs": [
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "Powder in water, 1 teaspoon daily."
+                },
+                {
+                  "name": "Vernonia amygdalina",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu",
+                    "Hausa": "Shuwaka"
+                  },
+                  "preparation": "Squeeze fresh leaves, mix juice with water; 1 cup daily."
+                },
+                {
+                  "name": "Ocimum gratissimum",
+                  "native_names": {
+                    "Igbo": "Nchanwu",
+                    "Yoruba": "Efirin",
+                    "Hausa": "Daidoya"
+                  },
+                  "preparation": "Leaf tea, 1 cup daily."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Musa paradisiaca (Plantain)",
+                  "native_names": {
+                    "Igbo": "Ogade/Jioko",
+                    "Yoruba": "Ewe ogede",
+                    "Hausa": "Ayabar turawa"
+                  },
+                  "preparation": "The peel of plaintain is charred and made into a powder. 2 teaspoons of the powder is mixed with water and taken 2 times daily."
+                }
+              ]
+            },
+            {
+              "name": "Irritable Bowel Syndrome (IBS)",
+              "symptoms_and_signs": "Abdominal pain, bloating, cramping, irregular bowel habits (diarrhea/constipation).",
+              "herbs": [
+                {
+                  "name": "Mentha piperita (Peppermint)",
+                  "native_names": {
+                    "Hausa": "Nana",
+                    "Yoruba": "Ewe minti"
+                  },
+                  "preparation": "Boil leaves for 10 minutes; drink as tea, 1-2 cups daily. The mentol relaxes intestinal smooth muscles."
+                },
+                {
+                  "name": "Carica papaya",
+                  "native_names": {
+                    "Yoruba": "Ibepe",
+                    "Hausa": "Gwanda",
+                    "Igbo": "Okoro ezi"
+                  },
+                  "preparation": "Leaf tea, 1 cup daily."
+                },
+                {
+                  "name": "Prunus Africana (African Cherry)",
+                  "native_names": {
+                    "Igbo": "Udala",
+                    "Yoruba": "Agbalumo"
+                  },
+                  "preparation": "The bark is usually dried and ground into a powder, then mixed with water and taken orally."
+                },
+                {
+                  "name": "Garcinia kola (Bitter Kola)",
+                  "native_names": {
+                    "Igbo": "Aku ilu",
+                    "Yoruba": "Orogbo",
+                    "Hausa": "Namijin Goro"
+                  },
+                  "preparation": "The seeds are typically chewed or ground into a powder and mixed with water."
+                },
+                {
+                  "name": "Plantago ovata (Psyllium husk)",
+                  "native_names": {
+                    "Yoruba": "Isabgolu",
+                    "Hausa": "Kaya mai sushiya"
+                  },
+                  "preparation": "1 tablespoon is mixed with water and taken at bedtime. The soluble fibres regulate bowel movement."
+                }
+              ]
+            },
+            {
+              "name": "Celiac Disease",
+              "symptoms_and_signs": "Diarrhea, fatigue, bloating, malabsorption.",
+              "herbs": [
+                {
+                  "name": "Moringa oleifera",
+                  "native_names": {
+                    "Hausa": "Zogale",
+                    "Igbo": "Okwe oyibo",
+                    "Yoruba": "Ewe ile"
+                  },
+                  "preparation": "Dry leaves, powder, add to food, 1-2 teaspoons daily."
+                },
+                {
+                  "name": "Zingiber officinale (ginger)",
+                  "native_names": {
+                    "Hausa": "Cithar",
+                    "Yoruba": "Atale",
+                    "Igbo": "Jinjar"
+                  },
+                  "preparation": "Tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "The rhizome is crushed or powdered and used as tea, 1-2 cups daily."
+                },
+                {
+                  "name": "Digitaria exilis (Acha grain, Hungry Rice)",
+                  "native_names": {
+                    "Hausa": "Acha",
+                    "Yoruba": "Suuru"
+                  },
+                  "preparation": "It is taken as a meal because of its high protein, and gluten free carbohydrate source."
+                }
+              ]
+            },
+            {
+              "name": "Crohn's Disease",
+              "symptoms_and_signs": "Abdominal pain, diarrhea, fatigue, fistulas.",
+              "herbs": [
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "Powder in water, 1 teaspoon daily."
+                },
+                {
+                  "name": "Aloe vera",
+                  "native_names": {
+                    "Yoruba": "Eti erin",
+                    "Hausa": "Kwandar"
+                  },
+                  "preparation": "Gel with honey, 1-2 tablespoons daily."
+                },
+                {
+                  "name": "Vernonia amygdalina (Bitter leaf)",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu"
+                  },
+                  "preparation": "Boil leaves for 15 minutes; drink as tea."
+                },
+                {
+                  "name": "Boswellia sarrata (Frankincense, Olibanum)",
+                  "native_names": {
+                    "Hausa": "Hano/Harrabi"
+                  },
+                  "preparation": "The resin extract is taken as tea to arrest diarrhea."
+                }
+              ]
+            },
+            {
+              "name": "Ulcerative Colitis",
+              "symptoms_and_signs": "Bloody diarrhea, abdominal pain, urgency.",
+              "herbs": [
+                {
+                  "name": "Vernonia amygdalina",
+                  "native_names": {
+                    "Yoruba": "Ewuro",
+                    "Igbo": "Onugbu",
+                    "Hausa": "Shuwaka"
+                  },
+                  "preparation": "Leaf juice, 1-2 tablespoons daily."
+                },
+                {
+                  "name": "Curcuma longa (turmeric)",
+                  "native_names": {
+                    "Yoruba": "Atale pupa",
+                    "Hausa": "Gangamau"
+                  },
+                  "preparation": "Powder in water, 1 teaspoon daily."
+                },
+                {
+                  "name": "Aloe vera",
+                  "native_names": {
+                    "Yoruba": "Eti erin",
+                    "Hausa": "Kwandar"
+                  },
+                  "preparation": "Extract gel, mix with water, take 1-2 tablespoons daily."
+                }
+              ]
+            },
+            {
+              "name": "Diverticulitis",
+              "symptoms_and_signs": "Abdominal pain, fever, nausea.",
+              "herbs": [
+                {
+                  "name": "Carica papaya",
+                  "native_names": {
+                    "Yoruba": "Ibepe",
+                    "Hausa": "Gwanda",
+                    "Igbo": "Okoro"
+                  },
+                  "preparation": "Leaf tea, 1 cup daily."
+                },
+                {
+                  "name": "Aloe vera",
+                  "native_names": {
+                    "Yoruba": "Eti erin",
+                    "Hausa": "Kwandar"
+                  },
+                  "preparation": "Gel with honey, 1-2 tablespoons daily."
+                },
+                {
+                  "name": "Psidium guajava (Guava)",
+                  "native_names": {
+                    "Hausa": "Goba",
+                    "Yoruba": "Guofa"
+                  },
+                  "preparation": "Boil leaves for 15 minutes; drink as tea."
+                },
+                {
+                  "name": "Allium sativum (Garlic)",
+                  "native_names": {
+                    "Hausa": "Tafarnuwa",
+                    "Yoruba": "Alubosa elewe"
+                  },
+                  "preparation": "Eat the raw cloves daily."
+                }
+              ]
+            }
+          ]
+        }
+    ]
+}}
