@@ -12,32 +12,27 @@ import {
   ScrollView,
   Image,
   ActivityIndicator,
-  StatusBar
+  StatusBar,
+  Keyboard
 } from 'react-native';
 import { useNavigation, useHeaderHeight } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
-// import LoadingScreen from './LoadingScreen';
-
-// Import your JSON data
 import herbalData from './conditions.json';
 
-
-
-// Calculate card dimensions
 const { width } = Dimensions.get('window');
 const CARD_MARGIN = 10;
 const CARD_WIDTH = (width - (CARD_MARGIN * 3)) / 2;
-
-// Extract systems data
 const systems = herbalData.document.systems;
 
 function HomeScreen() {
+  
   const navigation = useNavigation();
   const [searchQuery, setSearchQuery] = useState('');
   const [loading, setLoading] = useState(false);
+  const [showSearchResults, setShowSearchResults] = useState(false);
   const insets = useSafeAreaInsets();
 
   const diseaseData = systems.flatMap(system => 
@@ -54,6 +49,16 @@ function HomeScreen() {
       disease.symptoms_and_signs?.toLowerCase().includes(searchQuery.toLowerCase())
     );
   });
+
+  const handleSearchFocus = () => {
+    setShowSearchResults(true);
+  };
+
+  const handleBackToWelcome = () => {
+    setShowSearchResults(false);
+    setSearchQuery('');
+    Keyboard.dismiss();
+  };
 
   if (loading) {
     return (
@@ -77,40 +82,93 @@ function HomeScreen() {
             placeholderTextColor="#888"
             value={searchQuery}
             onChangeText={setSearchQuery}
+            onFocus={handleSearchFocus}
           />
         </View>
         
-        <FlatList
-          data={searchQuery ? filteredDiseases : diseaseData}
-          keyExtractor={(item, index) => index.toString()}
-          numColumns={2}
-          contentContainerStyle={styles.gridContainer}
-          renderItem={({ item }) => (
+        {showSearchResults ? (
+          <>
             <TouchableOpacity 
-              style={styles.diseaseCard}
-              onPress={() => navigation.navigate('DiseaseDetail', { disease: item })}
+              style={styles.backButton}
+              onPress={handleBackToWelcome}
             >
-              <Image 
-                source={{ uri: 'https://images.unsplash.com/photo-1597362925123-77861d3fbac7' }} 
-                style={styles.cardImage}
-                resizeMode="cover"
+              <MaterialCommunityIcons 
+                name="arrow-left" 
+                size={24} 
+                color="#2e7d32" 
               />
-              <View style={styles.cardContent}>
-                <Text style={styles.cardTitle} numberOfLines={2}>{item.name}</Text>
-                <Text style={styles.cardSystem}>{item.systemName}</Text>
-                <Text style={styles.cardSymptoms} numberOfLines={2}>{item.symptoms_and_signs}</Text>
-                <Text style={styles.herbsCount}>
-                  {item.herbs?.length || 0} {item.herbs?.length === 1 ? 'remedy' : 'remedies'}
+              <Text style={styles.backButtonText}>Back to welcome</Text>
+            </TouchableOpacity>
+            
+            <FlatList
+              data={searchQuery ? filteredDiseases : diseaseData}
+              keyExtractor={(item, index) => index.toString()}
+              numColumns={2}
+              contentContainerStyle={styles.gridContainer}
+              renderItem={({ item }) => (
+                <TouchableOpacity 
+                  style={styles.diseaseCard}
+                  onPress={() => navigation.navigate('DiseaseDetail', { disease: item })}
+                >
+                  <Image 
+                    source={{ uri: 'https://images.unsplash.com/photo-1597362925123-77861d3fbac7' }} 
+                    style={styles.cardImage}
+                    resizeMode="cover"
+                  />
+                  <View style={styles.cardContent}>
+                    <Text style={styles.cardTitle} numberOfLines={2}>{item.name}</Text>
+                    <Text style={styles.cardSystem}>{item.systemName}</Text>
+                    <Text style={styles.cardSymptoms} numberOfLines={2}>{item.symptoms_and_signs}</Text>
+                    <Text style={styles.herbsCount}>
+                      {item.herbs?.length || 0} {item.herbs?.length === 1 ? 'remedy' : 'remedies'}
+                    </Text>
+                  </View>
+                </TouchableOpacity>
+              )}
+              ListEmptyComponent={
+                <View style={styles.emptyContainer}>
+                  <Text style={styles.emptyText}>No diseases found matching your search</Text>
+                </View>
+              }
+            />
+          </>
+        ) : (
+          <ScrollView contentContainerStyle={styles.welcomeContainer}>
+            <View style={styles.welcomeCard}>
+              <Text style={styles.welcomeTitle}>Welcome to HerbAfric</Text>
+              <Text style={styles.welcomeText}>
+                Your comprehensive guide to African herbal remedies and traditional medicine.
+              </Text>
+              
+              <View style={styles.instructionSection}>
+                <MaterialCommunityIcons name="magnify" size={24} color="#2e7d32" />
+                <Text style={styles.instructionText}>
+                  Tap the search bar above to explore diseases and their herbal treatments
                 </Text>
               </View>
-            </TouchableOpacity>
-          )}
-          ListEmptyComponent={
-            <View style={styles.emptyContainer}>
-              <Text style={styles.emptyText}>No diseases found matching your search</Text>
+              
+              <View style={styles.instructionSection}>
+                <MaterialCommunityIcons name="information" size={24} color="#2e7d32" />
+                <Text style={styles.instructionText}>
+                  Browse remedies by disease or search for specific symptoms
+                </Text>
+              </View>
+              
+              <View style={styles.instructionSection}>
+                <MaterialCommunityIcons name="leaf" size={24} color="#2e7d32" />
+                <Text style={styles.instructionText}>
+                  Discover traditional preparations and native names for each herb
+                </Text>
+              </View>
             </View>
-          }
-        />
+            
+            <Image 
+              source={{ uri: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae' }}
+              style={styles.welcomeImage}
+              resizeMode="cover"
+            />
+          </ScrollView>
+        )}
       </View>
     </SafeAreaView>
   );
@@ -418,6 +476,58 @@ const styles = StyleSheet.create({
     marginTop: 20,
     color: 'white',
     fontSize: 16
+  },
+  welcomeContainer: {
+    flexGrow: 1,
+    padding: 20,
+  },
+  welcomeCard: {
+    backgroundColor: 'white',
+    borderRadius: 12,
+    padding: 20,
+    marginBottom: 20,
+    elevation: 3,
+  },
+  welcomeTitle: {
+    fontSize: 22,
+    fontWeight: 'bold',
+    color: '#2e7d32',
+    marginBottom: 15,
+    textAlign: 'center',
+  },
+  welcomeText: {
+    fontSize: 16,
+    color: '#555',
+    marginBottom: 20,
+    textAlign: 'center',
+    lineHeight: 24,
+  },
+  instructionSection: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: 15,
+  },
+  instructionText: {
+    fontSize: 15,
+    color: '#555',
+    marginLeft: 10,
+    flex: 1,
+  },
+  welcomeImage: {
+    width: '100%',
+    height: 200,
+    borderRadius: 12,
+  },
+  backButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    padding: 10,
+    paddingLeft: 15,
+  },
+  backButtonText: {
+    color: '#2e7d32',
+    marginLeft: 5,
+    fontWeight: '500',
   },
 });
 
