@@ -1,0 +1,2505 @@
+{
+  "document": {
+    "title": "Diseases; symptoms and signs; Nigerian herbs and their native names; and preparation methods",
+    "systems": [
+      {
+        "name": "Typhoid Fever",
+        "diseases": [
+          {
+            "name": "3. Respiratory Infections (Cough, Asthma, Pneumonia)",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Eucalyptus Leaves",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Licorice (Glycyrrhiza glabra)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Guava Leaves (Psidium guajava)",
+                "native_names": {},
+                "preparation": "Boil guava leaves and inhale steam for cough relief. Eucalyptus oil can be used in steam inhalation.",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "4. Skin Infections (Ringworm, Eczema, Wounds)",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Aloe Vera",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Turmeric (Curcuma longa)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Neem Leaves (Azadirachta indica)",
+                "native_names": {},
+                "preparation": "Apply aloe vera gel directly to wounds. Turmeric paste (mix with coconut oil) for fungal infections.",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Hepatitis B & C",
+        "diseases": [
+          {
+            "name": "8. HIV/AIDS Supportive Treatment",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Bitter kola (Garcinia kola)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "African potato (Hypoxis hemerocallidea)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Neem leaves (Azadirachta indica)",
+                "native_names": {},
+                "preparation": "Chew 1 bitter kola nut daily to boost immunity. Neem leaf tea (boil 5 leaves in 2 cups water) helps with opportunistic infections.",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Tuberculosis (TB)",
+        "diseases": [
+          {
+            "name": "- Crush 3 garlic cloves + 1 tbsp honey. Take daily.",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "- Lemon grass tea (boil leaves in water) helps respiratory symptoms.",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Lassa Fever",
+        "diseases": [
+          {
+            "name": "11. Yellow Fever/Dengue Fever",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Papaya leaf (Carica papaya)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Bitter leaf",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Lemon juice with honey",
+                "native_names": {},
+                "preparation": "Papaya leaf juice (30ml daily) helps increase platelets. Lemon-honey water (immune booster).",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "12. Measles/Chickenpox",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Neem leaves",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Bitter leaf",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Aloe vera",
+                "native_names": {},
+                "preparation": "Neem leaf bath (boil leaves in bathing water). Aloe vera gel applied to skin reduces itching.",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Ebola Supportive Care",
+        "diseases": [
+          {
+            "name": "17. COVID-19",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Ginger",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Garlic",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Turmeric",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Lemon",
+                "native_names": {},
+                "preparation": "\"COVID tea\": Boil ginger, garlic, lemon, turmeric in water. Sweeten with honey.",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "18. Zika/Monkeypox",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Bitter leaf",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Neem",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Aloe vera",
+                "native_names": {},
+                "preparation": "Neem leaf tea (immune support). Aloe vera gel for skin lesions.",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Diphtheria",
+        "diseases": [
+          {
+            "name": "General Safety Guidelines:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. Dosage:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "2. Contraindications:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "3. When to seek hospital care:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "4. Prevention:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Gastrointestinal and liver diseases",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Gastritis",
+        "diseases": [
+          {
+            "name": "6. Hepatitis (A, B, C, E)",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Phyllanthus amarus - \"Eyin olobe\" (Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Turmeric",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Milk thistle (Silybum marianum)",
+                "native_names": {},
+                "preparation": "Phyllanthus tea: Boil 10g whole plant in 500ml water for 15 mins. Drink 100ml 3x daily Turmeric milk: 1 tsp in warm milk at bedtime Liver cleanse: 1 tbsp olive oil + lemon juice each morning",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Food Poisoning",
+        "diseases": [
+          {
+            "name": "Critical Safety Notes:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. Medical Emergencies:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "2. Dosage Guidelines:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "3. Drug Interactions:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "4. When to Stop Herbs:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Cardiovascular diseases",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Hypertension (High Blood Pressure)",
+        "diseases": [
+          {
+            "name": "Mechanism: Acts as natural ACE inhibitors, diuretics, and vasodilators",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Stroke (Cerebrovascular Accident)",
+        "diseases": [
+          {
+            "name": "Post-Stroke Recovery Herbs:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Prevention: Control BP, diabetes, and cholesterol",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Coronary Artery Disease",
+        "diseases": [
+          {
+            "name": "Diet: Increase beans, oats, and fatty fish",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Heart Failure",
+        "diseases": [
+          {
+            "name": "Supportive Herbs:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Caution: Monitor fluid intake and weight daily",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Rheumatic Heart Disease",
+        "diseases": [
+          {
+            "name": "Critical: Requires antibiotic prophylaxis for dental procedures",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "General Cardiovascular Protocol",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. Dietary Changes:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "2. Lifestyle Modifications:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "3. Monitoring:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "4. Danger Signs Requiring Hospitalization:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Safety Precautions",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. Drug Interactions:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "2. Contraindications:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "3. Dosing Guidelines:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Metabolic & Endocrine Disorders",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. Diabetes Mellitus (Type 2)",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Bitter Leaf (Vernonia amygdalina)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Mango Leaves (Mangifera indica)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "African Bush Mango (Irvingia gabonensis)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Aloe Vera (Eti Erin in Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Bitter Leaf Juice: Blend fresh leaves, strain, and drink 50ml before meals (lowers blood sugar).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Mango Leaf Tea: Boil 10 dried leaves in 1L water, drink ½ cup twice daily.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Ogbono Seed Powder: Grind dried seeds, take 1 tsp with water daily (improves insulin sensitivity).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Aloe Vera Gel: Consume 1 tbsp daily (lowers fasting glucose).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Dietary Tips:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Avoid refined sugar & processed carbs",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Eat more beans, unripe plantains, and leafy greens",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Drink fenugreek (Ewedu) water for glucose control",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Obesity (Weight Management)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Bitter Kola Chewing: Chew 1-2 seeds before meals (suppresses appetite).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Ginger-Lemon Water: Boil ginger slices in water, add lemon juice (boosts metabolism).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Zobo Tea: Drink unsweetened hibiscus tea daily (reduces fat absorption).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Lifestyle Tips:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Intermittent fasting (14-16hrs)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Exercise (30 mins walking daily)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Avoid palm oil excess & fried foods",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "High Cholesterol (Hypercholesterolemia)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Garlic-Honey Mix: Crush 3 cloves + 1 tbsp honey, take daily (lowers LDL).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Flaxseed Drink: Soak 2 tbsp overnight, blend with water (rich in omega-3).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Oatmeal Porridge: Eat daily (reduces cholesterol absorption).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Dietary Tips:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Eat avocados, walnuts, and fatty fish",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Avoid processed meats & trans fats",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Goiter (Iodine Deficiency)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Seaweed Soup: Add dried seaweed to soups (rich in iodine).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Coconut Water: Drink daily (balances electrolytes).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Pawpaw Seed Tea: Crush seeds, boil, and drink (supports thyroid function).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Dietary Tips:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Use iodized salt",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Eat fish, eggs, and dairy",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "5. Thyroid Disorders (Hypo/Hyperthyroidism)",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Ashwagandha (Amukkara in Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Bladderwrack (Fucus vesiculosus)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Lemon Balm (Ewe tea in Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Ashwagandha Tea: Boil 1 tsp root powder in milk (supports hypothyroidism).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Bladderwrack Capsules: Take 500mg daily (for iodine deficiency).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Lemon Balm Tea: Steep leaves in hot water (calms overactive thyroid).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Dietary Tips:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Hypothyroidism: Eat Brazil nuts (selenium), pumpkin seeds (zinc)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Hyperthyroidism: Avoid caffeine, excess iodine",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Safety & Precautions",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Diabetes: Monitor blood sugar to avoid hypoglycemia.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Thyroid Disorders: Get lab tests before using iodine-rich herbs.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Obesity: Avoid extreme fasting without medical advice.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "High Cholesterol: Some herbs interact with statins (consult a doctor).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Skin Diseases",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Ringworm (Tinea Infections)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Neem-Turmeric Paste: Crush fresh neem leaves with turmeric powder, apply 2x daily.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Coconut Oil + Garlic: Mix with crushed garlic, apply to affected area (antifungal).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Prevention:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "- Wash clothes & bedding with hot water + neem leaves.",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Scabies (Itch Mite Infestation)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Aloe + Palm Oil Mix: Apply gel mixed with palm kernel oil to soothe itching.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Bitter Leaf Bath: Boil leaves, add to bathwater (kills mites).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Important:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Treat entire household to prevent reinfestation.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Eczema (Atopic Dermatitis)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Shea Butter + Honey: Apply as moisturizer (reduces inflammation).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Oatmeal Bath: Blend oats, add to lukewarm bath (relieves itching).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Avoid:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Harsh soaps & synthetic fabrics.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Acne Vulgaris",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Lemon-Honey Mask: Apply, leave for 10 mins (kills bacteria).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Clay Paste: Mix with water, apply as face mask (absorbs excess oil).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Diet Tip:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Reduce dairy & sugar intake.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Psoriasis (Autoimmune Skin Flaking)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Aloe Vera Gel: Apply directly to plaques (reduces scaling).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Salt Bath: Soak in warm water + Dead Sea salt (removes dead skin).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Lifestyle:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Manage stress (triggers flare-ups).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Cellulitis (Bacterial Skin Infection)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Garlic Paste: Crush & apply to affected area (natural antibiotic).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Turmeric Milk: Drink warm turmeric milk (boosts immunity).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Warning:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "If fever/swelling worsens, seek hospital care.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Impetigo (Bacterial Skin Sores)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Honey Dressing: Apply raw honey to sores (heals faster).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Guava Leaf Wash: Boil leaves, use as antiseptic wash.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Prevention:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Keep wounds clean & covered.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "8. Fungal Infections (Athlete’s Foot, Yeast)",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Apple cider vinegar (Kanmu sukari in Pidgin)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Pawpaw seeds (Epe ibepe in Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Vinegar Soak: Dilute in water, soak feet (kills fungus).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Pawpaw Seed Paste: Crush seeds, apply to affected area.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Prevention:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Keep skin dry & well-ventilated.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "9. Leprosy (Now Rare, but Traditional Remedies Exist)",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Chaulmoogra oil (Dafara in Hausa)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Neem oil (Mai dongoyaro in Hausa)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Oil Massage: Apply chaulmoogra oil to lesions (historical remedy).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Neem Leaf Tea: Boil leaves, drink daily (immune support).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Note:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Modern antibiotics (MDT) are essential",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "General Skin Care Tips",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Hygiene: Wash with black soap (Ose dudu)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Moisturize: Use shea butter or coconut oil",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Avoid Scratching: Prevents secondary infections",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Sexually Transmitted Infections (STIs)",
+        "diseases": [
+          {
+            "name": "1. Gonorrhea (\"The Clap\")",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Bitter kola (Garcinia kola)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Scent leaf (Ocimum gratissimum)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Alum (Efun alabukun in Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Bitter Kola Remedy: Chew 2-3 seeds daily (antibacterial properties).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Scent Leaf Tea: Boil leaves, drink 1 cup 2x daily (urinary tract cleanse).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Alum Wash: Dissolve in warm water for genital hygiene (do not overuse).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Warning:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Antibiotics (e.g., Ceftriaxone) are essential",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Syphilis",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Garlic Therapy: Eat 3 raw cloves daily (natural antibiotic).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Neem Leaf Decoction: Boil leaves, drink ½ cup 2x daily (blood purifier).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "African Peach Bark Tea: Boil bark, drink for systemic healing.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Critical:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Penicillin is the primary treatment",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Chlamydia",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Turmeric-Ginger Tea: Boil in water, drink 2x daily (anti-inflammatory).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Bitter Leaf Juice: Extract juice, drink 50ml daily (immune booster).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Note:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Azithromycin/Doxycycline is required",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "4. Genital Herpes (HSV-2)",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Aloe vera (Eti Erin in Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Lemon balm (Ewe tea in Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Coconut oil (Manja in Pidgin)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Aloe Vera Gel: Apply directly to sores (speeds healing).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Lemon Balm Tea: Drink to reduce outbreaks.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Coconut Oil + Tea Tree Oil: Apply to lesions (antiviral).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Prevention:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Avoid sexual contact during outbreaks.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "5. Trichomoniasis (\"Trich\")",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Pawpaw seeds (Epe ibepe in Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Apple cider vinegar (Kanmu sukari in Pidgin)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Pawpaw Seed Water: Blend seeds, mix with water, drink (parasite killer).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Vinegar Douche: Dilute in water for vaginal wash (restores pH balance).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Medical Treatment:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Metronidazole (Flagyl) is necessary.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "HPV (Genital Warts)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Castor Oil + Baking Soda Paste: Apply to warts daily.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Fig Latex: Apply fresh sap to warts (caustic effect).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Important:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "HPV vaccine (Gardasil) prevents high-risk strains.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "General STI Management Tips",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Abstain from sex during treatment.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Inform partners to prevent reinfection.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Boost immunity with moringa, citrus fruits, and zinc-rich foods.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "When to See a Doctor",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "If symptoms persist after 7 days of herbal treatment.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "For HIV/STI combo testing (many STIs increase HIV risk).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Neurological and mental health conditions",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Epilepsy",
+        "diseases": [
+          {
+            "name": "Safety:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Migraine",
+        "diseases": [
+          {
+            "name": "Lifestyle:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "3. Alzheimer's & Dementia",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Gotu Kola (Centella asiatica) - \"Ewe penny\" (Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Rosemary (Rosmarinus officinalis) - \"Ewe rosemary\" (Yoruba)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Turmeric (Curcuma longa) - \"Ata-ile pupa\" (Yoruba)",
+                "native_names": {},
+                "preparation": "Gotu Kola Tea: Steep fresh leaves in hot water. Drink 1 cup daily Rosemary Inhalation: Add 5 drops essential oil to diffuser daily Golden Milk: ½ tsp turmeric in warm milk with black pepper before bed",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Cognitive Support:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Depression",
+        "diseases": [
+          {
+            "name": "Important:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Anxiety Disorders",
+        "diseases": [
+          {
+            "name": "Techniques:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Schizophrenia",
+        "diseases": [
+          {
+            "name": "Critical Notes:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "General Neurological Health Tips:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. Nutrition:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "2. Sleep Hygiene:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "3. Exercise:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "4. Safety Precautions:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Joint & Musculoskeletal Disorders",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Arthritis (Osteoarthritis & Rheumatoid Arthritis)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Turmeric-Ginger Tea: Boil 1 tsp turmeric + 1 tsp ginger in 2 cups water. Drink 2x daily.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Jointfir Decoction: Boil stems in water for 15 mins. Drink ½ cup daily.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Topical Relief: Mix coconut oil + cayenne pepper as a pain-relief rub.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Dietary Support:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Eat more pineapple (contains bromelain, an anti-inflammatory enzyme).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Avoid processed foods & excess red meat.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Gout (Uric Acid Buildup)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Bitter Leaf Juice: Drink 50ml daily (lowers uric acid).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Celery Seed Tea: Boil seeds in water, drink 2x daily.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Lemon Water: Squeeze 1 lemon in warm water every morning.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Avoid:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Alcohol, organ meats, and sugary drinks (trigger gout attacks).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Low Back Pain (Muscle & Disc Issues)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Castor Oil Pack: Apply warm oil to back, cover with cloth, leave for 1 hour.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Clove Oil Massage: Mix 5 drops with coconut oil, massage painful areas.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Agbo Tea: Traditional herbal mix (consult an Onisegun for proper blend).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Lifestyle Tips:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Stretch daily (cat-cow, child’s pose).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Sleep on a firm mattress.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Sickle Cell Disease (Genetic Blood Disorder)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Moringa Powder: 1 tsp daily in porridge or water.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Pawpaw Leaf Tea: Boil leaves, drink ½ cup daily (reduces sickling).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Garlic Therapy: Chew 2 cloves daily (improves blood flow).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Critical Care:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Stay hydrated (prevents crises).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Avoid extreme cold & stress.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "General Pain Management Protocol",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "When to See a Doctor",
+        "diseases": [
+          {
+            "name": "Safety & Precautions",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Eye and ear conditions",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Conjunctivitis (Pink Eye)",
+        "diseases": [
+          {
+            "name": "Caution: Never put undiluted plant juices directly in eyes",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Cataracts",
+        "diseases": [
+          {
+            "name": "Important: These may slow progression but surgery is definitive treatment",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Glaucoma",
+        "diseases": [
+          {
+            "name": "Warning: Never discontinue prescribed eye drops. Monitor eye pressure regularly",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Trachoma",
+        "diseases": [
+          {
+            "name": "Critical: Requires antibiotic treatment (azithromycin) to prevent blindness",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Otitis Media (Ear Infection)",
+        "diseases": [
+          {
+            "name": "Safety: Never put anything in ear if eardrum may be ruptured",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Hearing Loss",
+        "diseases": [
+          {
+            "name": "Types addressed: May help age-related or circulation-related hearing loss only",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "General Safety Guidelines:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. Eye treatments:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "2. Ear treatments:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "3. When to see a doctor:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "4. Prevention:",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Remedies for Neonatal & Maternal Health Conditions",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Neonatal Sepsis (Newborn Infection)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Breast milk drops: Apply to baby’s eyes/nose (prevents infection).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Neem water bath: Boil leaves, cool, and use for gentle bathing (kills bacteria).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Garlic therapy for mothers: Chew 1-2 cloves daily (passes benefits via breast milk).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Medical Alert:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Neonatal sepsis is life-threatening—requires hospital antibiotics.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Birth Asphyxia (Oxygen Deprivation at Birth)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Ginger water: For mothers postpartum (improves blood flow).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Camphor rub: Tiny amount rubbed on baby’s soles (traditional revival method).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Critical:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Immediate medical intervention is essential (CPR, oxygen therapy).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Malnutrition (Kwashiorkor & Marasmus)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Moringa leaf powder: 1 tsp in baby’s porridge (boosts nutrition).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Papaya mash: Ripe papaya helps digestion in weaning babies.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Coconut water: For rehydration in diarrhea cases.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Dietary Recovery:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Kwashiorkor: High-protein foods (beans, eggs, soy).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Marasmus: Energy-dense foods (bananas, rice, peanut butter).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Rickets (Vitamin D Deficiency)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Ugwu soup: Cook leaves with crayfish (calcium-rich meal).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Sesame paste (Tahini): Add to baby’s food.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Prevention:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "30 mins sunlight daily (before 10 AM).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Breastfeeding mothers should eat calcium-rich foods.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Anemia (Iron Deficiency)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Scent leaf tea: Boil leaves, drink (for nursing mothers).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Liver stew: Cook with tomatoes (enhances iron absorption).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Warning:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Severe anemia requires iron supplements.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Pre-eclampsia & Eclampsia",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Garlic water: Crush 2 cloves in warm water (for mild hypertension).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Zobo tea: Unsweetened, helps reduce fluid retention.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "EMERGENCY PROTOCOL:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Eclampsia (seizures) requires IMMEDIATE hospitalization (IV magnesium sulfate).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "General Safety & Prevention",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. For Babies:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Exclusive breastfeeding for 6 months prevents infections & malnutrition.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Vaccinate on schedule (protects against sepsis-causing pathogens).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "2. For Mothers:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Prenatal care is non-negotiable (monitors pre-eclampsiarisk).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Eat iron-rich foods (prevent anemia during pregnancy).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "3. When to Rush to Hospital:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Baby: Fever, no feeding, lethargy.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Mother: Severe headache, blurred vision, seizures.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Scientific Backing & Traditional Wisdom",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "WHO recommends moringa for malnutrition.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Garlic’s hypotensive effects are clinically studied.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Sunlight remains the best Vitamin D source (Nigerian Pediatrics Association).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Remedies for Neglected Tropical Skin Diseases",
+            "symptoms_and_signs": "",
+            "herbs": []
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Buruli Ulcer (Mycobacterium ulcerans Infection)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Honey Dressing: Apply raw honey directly to cleaned ulcers, cover with clean gauze (changes daily).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Neem Leaf Paste: Crush fresh leaves, apply to wound edges to prevent spread.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Aloe Vera Gel: Soothes inflamed skin around ulcers.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Medical Alert:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Requires antibiotics (rifampicin + clarithromycin). Herbs are adjunct therapy only.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      },
+      {
+        "name": "Leishmaniasis (Sandfly-Borne Parasitic Disease)",
+        "diseases": [
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Black Seed Oil: Take 1 tsp daily (immune support).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Papaya Seed Paste: Crush seeds, mix with honey, take ½ tspdaily (not for pregnant women).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Turmeric Compress: Mix powder with coconut oil, apply to skin lesions.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Prevention:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Sleep under insecticide-treated nets (sandflies bite at night).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "3. Mycetoma (Chronic Fungal/Bacterial Infection)",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Garlic (Allium sativum)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Apple Cider Vinegar",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Guava Leaves (Psidium guajava)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Preparation & Use:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Garlic Poultice: Crush cloves, mix with coconut oil, applyto affected area.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Vinegar Soak: Dilute 1:1 with water, soak infected foot/hand 20 mins daily.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Guava Leaf Wash: Boil leaves, use cooled water to clean wounds.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "Critical Note:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Advanced mycetoma requires surgery + long-term antifungals/antibiotics.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "General Wound Care Protocol",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. Cleaning:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Wash with boiled & cooled salt water or neem water.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "2. Dressing:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Use sterile gauze + honey or aloe vera.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "3. Prevent Spread:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Avoid walking barefoot (mycetoma).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Cover ulcers to prevent fly infestation (Buruli ulcer).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "When to Seek Hospital Care",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Fever with worsening wounds",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Blackened skin (necrosis)",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "No improvement after 2 weeks of herbal care",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          },
+          {
+            "name": "General Preparation Methods",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "1. Decoction – Boiling herbs in water to extract active compounds.",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "2. Infusion – Steeping herbs in hot water (like tea).",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "3. Poultice – Crushing herbs into a paste for topical application.",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "4. Juicing – Extracting liquid from fresh leaves (e.g., bitter leaf juice).",
+            "symptoms_and_signs": "",
+            "herbs": []
+          },
+          {
+            "name": "Safety Notes:",
+            "symptoms_and_signs": "",
+            "herbs": [
+              {
+                "name": "Some herbs can interact with medications (e.g., garlic with blood thinners).",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Always consult a herbalist or doctor before long-term use.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "These remedies are primarily SUPPORTIVE and should not replace medical treatment for serious diseases.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Some herbs (like Datura) can be toxic - use only under expert guidance.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "Always combine with proper hygiene and sanitation practices.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              },
+              {
+                "name": "For vaccine-preventable diseases (polio, measles, tetanus), vaccination remains essential.",
+                "native_names": {},
+                "preparation": "",
+                "image": ""
+              }
+            ]
+          }
+        ],
+        "protocol_summary": {}
+      }
+    ]
+  }
+}
