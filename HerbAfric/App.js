@@ -86,6 +86,7 @@ function HomeScreen() {
       <View style={styles.headerContainer}>
         <SafeAreaView style={styles.safeAreaHeader}>
           <Image source={logo} style={styles.logoImage} resizeMode="contain" />
+          <Text style={styles.welcomeTitleWhite}>Welcome to HerbAfric!</Text>
         </SafeAreaView>
       </View>
 
@@ -163,10 +164,6 @@ function HomeScreen() {
         ) : (
           <ScrollView contentContainerStyle={styles.welcomeContainerWhite}>
             <View style={styles.welcomeCardGreen}>
-              <Text style={styles.welcomeTitleWhite}>Welcome to HerbAfric!</Text>
-              <Text style={styles.welcomeTextWhite}>
-              From Plants to Pharmacy: HerbAfric, Africa’s Herbal Wisdom in Your Hands!
-              </Text>
 
               <View style={styles.instructionSection}>
                 <MaterialCommunityIcons
@@ -199,17 +196,17 @@ function HomeScreen() {
                 </Text>
               </View>
               
-              <View style={styles.instructionSection}>
+            </View>
+            <View style={styles.oops}>
                 <MaterialCommunityIcons
                   name="information"
-                  size={24}
+                  size={39}
                   color="red"
                 />
-                <Text style={styles.instructionTextWhite}>
+                <Text style={styles.oopsText}>
                 Always consult a qualified healthcare provider before using herbal remedies, especially if pregnant, nursing, taking medications, or managing a health condition.
                 </Text>
               </View>
-            </View>
           </ScrollView>
         )}
       </View>
@@ -391,7 +388,7 @@ const styles = StyleSheet.create({
     width: 120, // adjust as needed
     height: 40, // adjust as needed
     alignSelf: 'center',
-    marginTop: 10,
+    marginTop: 20,
   },
   searchContainer: {
     backgroundColor: "#2e7d32",
@@ -467,8 +464,8 @@ const styles = StyleSheet.create({
   welcomeTitleWhite: {
     fontSize: 22,
     fontWeight: "bold",
-    color: "green",
-    marginBottom: 15,
+    color: "white",
+    marginTop: 15,
     textAlign: "center",
   },
   welcomeTextWhite: {
@@ -594,6 +591,24 @@ const styles = StyleSheet.create({
     paddingBottom: 20,
     paddingTop: 25,
   },
+  oops: {
+    position: "absolute",
+    bottom: 50,
+    left: 12,
+    flexDirection: "column",
+    alignItems: "center",
+    marginBottom: 15,
+  },
+  oopsText: {
+    fontSize: 15,
+    color: "green",
+    flex: 1,
+    marginTop: 10,
+    textAlign: "center",    
+    paddingLeft: 20,
+    paddingRight: 20,
+
+  }
 });
 
 export default App;

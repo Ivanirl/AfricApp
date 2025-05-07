@@ -21,7 +21,7 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.ivanirl.HerbAfric",
-      "VersionCode": 3
+      "VersionCode": 2
     },
     "web": {
       "favicon": "./assets/favicon.png"
